@@ -1,10 +1,16 @@
 ## 内容
 
-| | | |
-|---|---|---|
-| ![heatmap1](docs/task-progress-heatmap-1.jpeg) | ![heatmap2](docs/task-progress-heatmap-2.jpeg) | ![heatmap3](docs/task-progress-heatmap-3.jpeg) |
-| ![heatmap4](docs/task-progress-heatmap-4.jpeg) | ![heatmap5](docs/task-progress-heatmap-5.jpeg) | ![heatmap6](docs/task-progress-heatmap-6.jpeg) |
-| ![heatmap7](docs/task-progress-heatmap-7.jpeg) |  |  |
+| 打刻画面（メインUI） | 日次・月次集計グラフ |
+|----------------|------------------|
+| ![punch](https://github.com/mikan202510/django-attendance-system/assets/00000000a2746209bc3ce3b39da5e8f8) | ![summary](https://github.com/mikan202510/django-attendance-system/assets/000000000a8c61fb8814231736b9b8ea) |
+
+| 月次データ一覧 | チーム集計（管理者向け） |
+|----------------|----------------|
+| ![monthly](https://github.com/mikan202510/django-attendance-system/assets/0000000068006209a7c37a7864b216b5) | ![team](https://github.com/mikan202510/django-attendance-system/assets/0000000076746209b6ceafb6201f03e8) |
+
+| 残業・休暇申請画面 |
+|----------------|
+| ![request](https://github.com/mikan202510/django-attendance-system/assets/00000000a724620998f8cd1404bc8aae) |
 
 # Django × Streamlit 勤怠管理システム ― 打刻と集計の可視化アプリ
 - Django REST Framework と Streamlit を組み合わせた、勤怠打刻と勤務時間集計を自動化・可視化するWebアプリです
